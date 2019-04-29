@@ -1,3 +1,3 @@
 <?php
-print "Hello Luigi - folder Projet1" . PHP_VERSION . "\n";
+print "Hello, World! from folder 1, php version is " . PHP_VERSION . "\n";
 ?>
