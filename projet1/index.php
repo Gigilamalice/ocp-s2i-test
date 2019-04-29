@@ -1,4 +1,3 @@
 <?php
-print "Hello Luigi" . PHP_VERSION . "\n";
-folder Projet1
+print "Hello Luigi - folder Projet1" . PHP_VERSION . "\n";
 ?>
